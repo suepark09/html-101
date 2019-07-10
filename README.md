@@ -1,1 +1,1 @@
-# Learning HTML through these examples
+# Learning HTML through these example exercises
